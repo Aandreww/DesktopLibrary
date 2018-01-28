@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Clients>
+    <Client id="af82040f-37f6-4a8f-94d0-c286448bfa63">
+        <login>Client1</login>
+        <pass>123</pass>
+        <privilege>Client</privilege>
+    </Client>
+    <Client id="a3ea029d-8d25-463c-9244-d84dc2f86470">
+        <login>Moder1</login>
+        <pass>321</pass>
+        <privilege>Moder</privilege>
+    </Client>
+    <Client id="a6c707a0-e2f8-4bce-86c4-946d3e50ac83">
+        <login>Admin1</login>
+        <pass>312</pass>
+        <privilege>Admin</privilege>
+    </Client>
+    <Client id="43cd048b-3883-45d3-954a-ae053e75d899">
+        <login>Client2</login>
+        <pass>132</pass>
+        <privilege>Client</privilege>
+    </Client>
+</Clients>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><Books>
+    <Book id="49ddaee6-f470-4a04-941b-e78792d36366">
+        <title>The stranger</title>
+        <year>1942</year>
+        <genre>Novel</genre>
+    </Book>
+    <Book id="4fc3140b-a31a-4f03-a4fe-eb84841cf6ab">
+        <title>Art of war</title>
+        <year>0</year>
+        <genre>Tractate</genre>
+    </Book>
+    <Book id="595af682-463f-4192-b5ad-33dbc5a9c1cb">
+        <title>The Hitchhiker’s Guide to the Galaxy</title>
+        <year>1979</year>
+        <genre>Novel</genre>
+    </Book>
+    
+</Books>

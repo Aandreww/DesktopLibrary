@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><Authors_books>
+    <Author_book id="aafe61e9-522e-48e6-83ec-0b2f9a4d66a2">
+        <author_id>cd900046-fb33-4aa7-ae74-89bfe145089e</author_id>
+        <book_id>4fc3140b-a31a-4f03-a4fe-eb84841cf6ab</book_id>
+    </Author_book>
+    <Author_book id="f0259f23-d6d5-4b34-a127-c4c5374da321">
+        <author_id>35853148-20e9-48a7-ba5b-cc3f3eb2f824</author_id>
+        <book_id>49ddaee6-f470-4a04-941b-e78792d36366</book_id>
+    </Author_book>
+    <Author_book id="bed58b9b-cfa7-4035-bfd4-9fedf9c1296f">
+        <author_id>d895d056-07f8-49b3-8d2f-ca27487134fe</author_id>
+        <book_id>595af682-463f-4192-b5ad-33dbc5a9c1cb</book_id>
+    </Author_book>
+    
+</Authors_books>
